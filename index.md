@@ -14,4 +14,4 @@ We have a number of open source projects! Check some of them out today!
 ## Website Documentation
 
 
-- [How to Contribute](./contribute.html).
+- [How to Contribute](./docs/contribute.html).
