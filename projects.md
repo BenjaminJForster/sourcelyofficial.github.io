@@ -2,8 +2,9 @@
 layout: default
 ---
 
+[back](../)
 
-# Our Porjects
+# Our Projects
 
 View all of our projects below:
 
